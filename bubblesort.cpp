@@ -2,7 +2,7 @@
 using namespace std;
 void bubblesort(int arr[], int n)
 {
-
+  // bubble sort algorithm
   int i, j;
   bool swapped;
   swapped = false;
